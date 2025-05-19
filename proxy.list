@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,yahoosandbox.com
 
 DOMAIN,whatismyipaddress.com
 DOMAIN,ipaddress.my
-DOMAIN,ip.sb
+DOMAIN-SUFFIX,ip.sb
 DOMAIN,ip.me
 DOMAIN,whatismyip.com
 DOMAIN,whoer.net
