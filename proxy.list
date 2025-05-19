@@ -6,8 +6,8 @@ DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,yahoosandbox.com
-DOMAIN-SUFFIX,cloudflare-dns.com
-DOMAIN-SUFFIX,one.one.one.one
+# DOMAIN-SUFFIX,cloudflare-dns.com
+# DOMAIN-SUFFIX,one.one.one.one
 # IP-CIDR,1.1.1.1/32
 # IP-CIDR,1.0.0.1/32
 DOMAIN,whatismyipaddress.com
