@@ -40,6 +40,8 @@ DOMAIN-SUFFIX,copilot.cloud.microsoft
 DOMAIN-SUFFIX,copilot.microsoft.com
 
 DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+
 DOMAIN-SUFFIX,s3.amazonaws.com
 DOMAIN-SUFFIX,cradio.live
 DOMAIN-SUFFIX,pluto.tv
