@@ -13,13 +13,13 @@ DOMAIN-SUFFIX,yahoosandbox.com
 # IP-CIDR,1.1.1.1/32
 # IP-CIDR,1.0.0.1/32
 
-DOMAIN,whatismyipaddress.com
-DOMAIN,ipaddress.my
+DOMAIN-SUFFIX,whatismyipaddress.com
+DOMAIN-SUFFIX,ipaddress.my
 DOMAIN-SUFFIX,ip.sb
-DOMAIN,ip.me
-DOMAIN,whatismyip.com
-DOMAIN,whoer.net
-DOMAIN,ping0.cc
+DOMAIN-SUFFIX,ip.me
+DOMAIN-SUFFIX,whatismyip.com
+DOMAIN-SUFFIX,whoer.net
+DOMAIN-SUFFIX,ping0.cc
 
 DOMAIN-SUFFIX,freenom.com
 DOMAIN-SUFFIX,cloudns.net
