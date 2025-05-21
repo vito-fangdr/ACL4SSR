@@ -1,5 +1,4 @@
-DOMAIN-SUFFIX,push.services.mozilla.com
-DOMAIN-SUFFIX,sync.services.mozilla.com
+DOMAIN-SUFFIX,services.mozilla.com
 DOMAIN-SUFFIX,accounts.firefox.com
 
 DOMAIN-SUFFIX,paypal.com
