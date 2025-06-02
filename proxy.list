@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,yahoosandbox.com
 # Google Voice
 DOMAIN,stun.l.google.com
 DOMAIN,lens.l.google.com
+IP-CIDR,216.239.0.0/16
+IP-CIDR,74.125.0.0/16
 
 # DOMAIN-SUFFIX,cloudflare-dns.com
 # DOMAIN-SUFFIX,one.one.one.one
