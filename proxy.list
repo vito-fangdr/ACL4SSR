@@ -8,6 +8,12 @@ DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,yahoosandbox.com
 
+# Google Voice
+IP-CIDR,74.125.0.0/16
+IP-CIDR,74.125.23.127/32
+DOMAIN,lens.l.google.com
+DOMAIN-SUFFIX,googlevoice.com
+
 # DOMAIN-SUFFIX,cloudflare-dns.com
 # DOMAIN-SUFFIX,one.one.one.one
 # IP-CIDR,1.1.1.1/32
